@@ -1,0 +1,24 @@
+project:
+  title: "How to fill maps with density gradients"
+  output-dir: output
+format:
+  html:
+    fontsize: 1.4rem
+    page-layout: full
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    other-links:
+      - text: RspatialPkg
+        href: https://github.com/deandevl/RspatialPkg
+      - text: deandevl
+        href: https://github.com/deandevl
+    code-links:
+      - text: source
+        icon: github
+        href: "https://github.com/deandevl/RfillMaps"
+
+number-sections: true
+date: last-modified
+author: Rick Dean
